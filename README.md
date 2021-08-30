@@ -1,4 +1,4 @@
-# CS-32-Data-Structures
+# cs32datastructures
 submitted homework and projects from CS 32, a course that focuses on data structures and the principles of object-oriented programming
 
 Homeworks 
